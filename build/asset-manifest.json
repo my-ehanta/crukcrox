@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mehanta-react/static/css/main.e6c13ad2.css",
+    "main.js": "/mehanta-react/static/js/main.0e329c70.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mehanta-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/mehanta-react/index.html",
+    "main.e6c13ad2.css.map": "/mehanta-react/static/css/main.e6c13ad2.css.map",
+    "main.0e329c70.js.map": "/mehanta-react/static/js/main.0e329c70.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mehanta-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0e329c70.js"
+  ]
+}
